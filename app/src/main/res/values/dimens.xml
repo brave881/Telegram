@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <!--fragment settings-->
+
+    <dimen name="settings_user_photo_width">55dp</dimen>
+    <dimen name="settings_user_photo_height">55dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="size_10sp">10sp</dimen>
+    <dimen name="settings_btn_photo_change_width">55dp</dimen>
+    <dimen name="settings_btn_photo_change_height">55dp</dimen>
+    <dimen name="settings_ripple_effect_radius">4dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="register_et_padding">10dp</dimen>
+    <dimen name="img_register_width">60dp</dimen>
+    <dimen name="img_register_height">60dp</dimen>
+    <dimen name="vertical_large_margin">16dp</dimen>
+    <dimen name="chat_toolbar_img_width">45dp</dimen>
+    <dimen name="chat_toolbar_img_height">45dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+
+</resources>

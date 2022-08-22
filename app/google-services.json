@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138439841771",
+    "firebase_url": "https://telegram-c02ec-default-rtdb.firebaseio.com",
+    "project_id": "telegram-c02ec",
+    "storage_bucket": "telegram-c02ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138439841771:android:ad6deda1af10e59fb2ebae",
+        "android_client_info": {
+          "package_name": "com.example.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138439841771-8fvaiif5vkmqmcolqsbpuv9g7or0faen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxQIP6usO4sCXzIHy9aotYhBfGhCDlOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138439841771-8fvaiif5vkmqmcolqsbpuv9g7or0faen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string name="drawer_item_home">Create group</string>
+    <string name="drawer_item_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_user_settings">Yunus Erol</string>
+    <string name="status_settings">online</string>
+    <string name="settings_text_account">Account</string>
+    <string name="settings_default_number">+905519920410</string>
+    <string name="settings_text_info">Tap to change phone number</string>
+    <string name="default_username_text">_@viverra</string>
+    <string name="username_default_text">Username</string>
+    <string name="default_bio_text">Bio</string>
+    <string name="default_bio_info_text">Add a few words about yourself</string>
+    <string name="settings_action_menu_edit">Edit name</string>
+    <string name="settings_action_menu_log_out">Log out</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="todo">TODO</string>
+    <string name="send_code_label">Send the code as an sms</string>
+    <string name="register_check_info_text">Check you Telegram messages</string>
+    <string name="register_check_info_small_text">We\'ve sent the code to the Telegram app on \n your other device</string>
+    <string name="reg_code_hint">- - - - - -</string>
+    <string name="register_toolbar_text">Your Phone</string>
+    <string name="register_input_code">Input Code</string>
+    <string name="register_toast_enter_phone">Input your phone number</string>
+    <string name="chat_default">Chat</string>
+    <string name="register_input_your_phone_number">Input your phone number</string>
+    <string name="register_hint_phone">_ _ _ _ _ _ _ _ _ _</string>
+    <string name="settings_hint_input_name">Name</string>
+    <string name="settings_hint_input_surname">Surname</string>
+    <string name="update_data_toastt">Update is successfully</string>
+    <string name="rotation_value">Click to change rotation: %1$s</string>
+    <string name="settings_hint_input_username">Username</string>
+    <string name="settings_hint_input_bio">Bio</string>
+</resources>
